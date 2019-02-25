@@ -3,7 +3,7 @@ Python Intermediate
 
     Python Intermediate
 
-      written by sean base on following books
+      written by bibi  base on following books
 
 
 
